@@ -1,0 +1,3 @@
+test/ClientePersonaService.class
+com/daniel/sga/servicio/PersonaServiceRemote.class
+com/daniel/sga/domain/Persona.class
